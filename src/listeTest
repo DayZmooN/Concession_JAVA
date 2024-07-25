@@ -1,0 +1,18 @@
+- createCars objet et en bdd
+⁃ SuppressionVoiture objet
+⁃ tostring
+⁃ creerConcession en objet et en bdd
+⁃ choix quelle recupere bien le bon type et la bonne valeur
+⁃ SortirProgram
+⁃ afficherlisteVoiture
+⁃ SupprimerVoitureConcession
+
+contructeur si rend null ou pas
+verifier dans l'objet si il a bien recuperer ses proprieter
+verifer la connexion et bien ouverte et se ferme bien
+
+ajout on verifie si elle a bien ajouter ce qui etait ajouter
+select on verifie quelle recuper bien ce qui a etait demander
+select * on verfiie quelle recuper bien les donne dans un bonne ordre
+
+constructeur si on les bon type en paramettre
